@@ -10,7 +10,7 @@ COR<-cor(district)
                   addCoef.col="black", addCoefasPercent = TRUE,
                   sig.level=0.50, insig = "black")
   ```
-  ##correlation matrix of AFCARS Adoption data
+ ##correlation matrix of AFCARS Adoption data
  ```{r}     
     adoptaf<-read.csv(“afcarsadopt.csv”)
 COR<-cor(adopaf)
@@ -31,7 +31,7 @@ COR<-cor(fosteraf)
                   addCoef.col="black", addCoefasPercent = TRUE,
                   sig.level=0.50, insig = "blank")
  ```
- ## correlation matrix of NYTD Service data 
+## correlation matrix of NYTD Service data 
  ```{r} 
 nytdserv<-read.csv(“service.csv”)
 COR<-cor(nytdserv)
