@@ -11,7 +11,7 @@ COR<-cor(district)
                   sig.level=0.50, insig = "black")
                ```
  #correlation matrix of AFCARS Adoption data
-          ```{r}     
+ ```{r}     
     adoptaf<-read.csv(“afcarsadopt.csv”)
 COR<-cor(adopaf)
  corrplot(COR, order="AOE", method="circle", tl.pos="lt", type="upper",        
@@ -19,16 +19,18 @@ COR<-cor(adopaf)
                   addCoef.col="black", addCoefasPercent = TRUE,
                   sig.level=0.50, insig = "blank")
        ```
-     # correlation matrix of AFCARS Foster data 
+
+# correlation matrix of AFCARS Foster data 
+ 
      
-     ```{r} 
+ ```{r} 
 fosteraf<-read.csv(“afcarsfoster.csv”)
 COR<-cor(fosteraf)
  corrplot(COR, order="AOE", method="circle", tl.pos="lt", type="upper",        
                   tl.col="black", tl.cex=0.6, tl.srt=45, 
                   addCoef.col="black", addCoefasPercent = TRUE,
                   sig.level=0.50, insig = "blank")
-                       ```
+   ```
    # correlation matrix of NYTD Service data 
  ```{r} 
 nytdserv<-read.csv(“service.csv”)
