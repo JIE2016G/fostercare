@@ -1,6 +1,6 @@
 maps were  created using google fusion tables 
 
-correlation matrix of ditrict location data 
+correlation matrix of district location data 
 ```{r}
 district<-read.csv(“placedistrictopendata.csv”)
 library(corrplot)
@@ -10,7 +10,7 @@ COR<-cor(district)
                   addCoef.col="black", addCoefasPercent = TRUE,
                   sig.level=0.50, insig = "black")
   ```
- ##correlation matrix of AFCARS Adoption data
+ ## correlation matrix of AFCARS Adoption data 
  ```{r}     
     adoptaf<-read.csv(“afcarsadopt.csv”)
 COR<-cor(adopaf)
@@ -40,7 +40,8 @@ COR<-cor(nytdserv)
                   addCoef.col="black", addCoefasPercent = TRUE,
                   sig.level=0.50, insig = "blank")
   ```
-##correlation matrix nytd outcome data 
+
+## correlation matrix of NYTD Outcome data 
  ```{r} 
 nytdoutcome<-read.csv(“outcome.csv”)
 COR<-cor(nytdoutcome)
