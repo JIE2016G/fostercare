@@ -1,0 +1,60 @@
+location,numplacement2014,numplace2013,isbronx,isbrooklyn,manhattan,queens,staten,percentchange,percent poverty
+BX01 Mott Haven/Melrose,126,142,1,0,0,0,0,0.126984127,0.43
+BX02 Hunts Point/Longwood,114,89,1,0,0,0,0,-0.2192982456,0.43
+BX03 Morrisania/Crotona,99,103,1,0,0,0,0,0.0404040404,0.44
+BX04 Highbridge/Concourse,186,188,1,0,0,0,0,0.0107526882,0.39
+BX05 Fordham/University Heights,140,105,1,0,0,0,0,-0.25,0.42
+BX06 Belmont/East Tremont,75,105,1,0,0,0,0,0.4,0.44
+BX07 Kingsbridge Heights/Bedford Pk,85,88,1,0,0,0,0,0.0352941176,0.32
+BX08 Riverdale/Fieldstone,26,29,1,0,0,0,0,0.1153846154,0.17
+BX09 Parkchester/Soundview,124,128,1,0,0,0,0,0.0322580645,0.29
+BX10 Throgs Neck/Co-op City,22,22,1,0,0,0,0,0,0.12
+BX11 Morris Park/Bronxdale,47,57,1,0,0,0,0,0.2127659574,0.2
+BX12 Williamsbridge/Baychester,133,130,1,0,0,0,0,-0.022556391,0.2
+BK01 Greenpoint/Williamsburg,44,30,0,1,0,0,0,-0.3181818182,0.3
+BK02 Fort Greene/Brooklyn Heights,28,48,0,1,0,0,0,0.7142857143,0.2
+BK03 Bedford Stuyvesant,164,158,0,1,0,0,0,-0.0365853659,0.33
+BK04 Bushwick,81,131,0,1,0,0,0,0.6172839506,0.3
+BK05 East New York/Starrett City,221,167,0,1,0,0,0,-0.2443438914,0.32
+BK06 Park Slope/Carroll Gardens,14,23,0,1,0,0,0,0.6428571429,0.11
+BK07 Sunset Park,33,26,0,1,0,0,0,-0.2121212121,0.29
+BK08 Crown Heights,72,99,0,1,0,0,0,0.375,0.27
+BK09 South Crown Heights/Prospect,39,46,0,1,0,0,0,0.1794871795,0.22
+BK10 Bay Ridge/Dyker Heights,8,9,0,1,0,0,0,0.125,0.16
+BK11 Bensonhurst,23,19,0,1,0,0,0,-0.1739130435,0.18
+BK12 Borough Park,22,19,0,1,0,0,0,-0.1363636364,0.32
+BK13 Coney Island,38,55,0,1,0,0,0,0.4473684211,0.27
+BK14 Flatbush/Midwood,42,66,0,1,0,0,0,0.5714285714,0.21
+BK15 Sheepshead Bay,17,18,0,1,0,0,0,0.0588235294,0.17
+BK16 Brownsville,212,158,0,1,0,0,0,-0.2547169811,0.37
+BK17 East Flatbush,85,107,0,1,0,0,0,0.2588235294,0.18
+BK18 Flatlands/Canarsie,61,57,0,1,0,0,0,-0.0655737705,0.12
+MNO1 Financial District,2,6,0,0,1,0,0,2,0.08
+MNO2 Greenwich Village/Soho,3,2,0,0,1,0,0,-0.3333333333,0.08
+MNO3 Lower East Side/Chinatown,75,105,0,0,1,0,0,0.4,0.28
+MNO4 Clinton/Chelsea,36,44,0,0,1,0,0,0.2222222222,0.13
+MNO5 Midtown,17,23,0,0,1,0,0,0.3529411765,0.13
+MNO6 Stuyvesant Town/Turtle Bay,2,22,0,0,1,0,0,10,0.1
+MNO7 Upper West Side,51,70,0,0,1,0,0,0.3725490196,0.11
+MNO8 Upper East Side,5,11,0,0,1,0,0,1.2,0.07
+MNO9 Morningside Height./Hamilton,70,76,0,0,1,0,0,0.0857142857,0.28
+MN10 Central Harlem,124,146,0,0,1,0,0,0.1774193548,0.29
+MN11 East Harlem,132,164,0,0,1,0,0,0.2424242424,0.31
+MN12 Washington Heights/Inwood,49,68,0,0,1,0,0,0.387755102,0.27
+QN01 Astoria,46,46,0,0,0,1,0,0,0.19
+QNO2 Woodside/Sunnyside,13,24,0,0,0,1,0,0.8461538462,0.16
+QNO3 Jackson Heights,38,53,0,0,0,1,0,0.3947368421,0.22
+QN04 Elmhurst/Corona,60,23,0,0,0,1,0,-0.6166666667,0.23
+QN05 Ridgewood/Maspeth,29,39,0,0,0,1,0,0.3448275862,0.14
+QN06 Rego Park/Forest Hills,6,10,0,0,0,1,0,0.6666666667,0.1
+QN07 Flushing/Whitestone,32,31,0,0,0,1,0,-0.03125,0.15
+QN08 Hillcrest/Fresh Meadows,46,28,0,0,0,1,0,-0.3913043478,0.16
+QN09 Ozone Park/Woodhaven,32,48,0,0,0,1,0,0.5,0.17
+QN10 South. Ozone Park/Howard Beac,46,34,0,0,0,1,0,-0.2608695652,0.13
+QN11 Bayside/Little Neck,4,4,0,0,0,1,0,0,0.09
+QN12 Jamaica/Hollis,218,150,0,0,0,1,0,-0.3119266055,0.17
+QN13 Queens Village,77,106,0,0,0,1,0,0.3766233766,0.1
+QN14 Rockaway/Broad Channel,109,105,0,0,0,1,0,-0.0366972477,0.19
+S101 Saint George/Stapleton,175,169,0,0,0,0,1,-0.0342857143,0.2
+S102 South Beach/Willowbrook,23,40,0,0,0,0,1,0.7391304348,0.09
+S103 Tottenville/Great Mils,23,25,0,0,0,0,1,0.0869565217,0.06
