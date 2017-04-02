@@ -1,6 +1,6 @@
-#maps were  created using google fusion tables 
+##maps were  created using google fusion tables 
 
-#correlation matrix of ditrict location data 
+##correlation matrix of ditrict location data 
 ```{r}
 district<-read.csv(“placedistrictopendata.csv”)
 library(corrplot)
@@ -10,7 +10,7 @@ COR<-cor(district)
                   addCoef.col="black", addCoefasPercent = TRUE,
                   sig.level=0.50, insig = "black")
                ```
- #correlation matrix of AFCARS Adoption data
+ ##correlation matrix of AFCARS Adoption data
  ```{r}     
     adoptaf<-read.csv(“afcarsadopt.csv”)
 COR<-cor(adopaf)
@@ -20,7 +20,7 @@ COR<-cor(adopaf)
                   sig.level=0.50, insig = "blank")
        ```
 
-# correlation matrix of AFCARS Foster data 
+## correlation matrix of AFCARS Foster data 
  
      
  ```{r} 
@@ -31,7 +31,7 @@ COR<-cor(fosteraf)
                   addCoef.col="black", addCoefasPercent = TRUE,
                   sig.level=0.50, insig = "blank")
    ```
-   # correlation matrix of NYTD Service data 
+ ## correlation matrix of NYTD Service data 
  ```{r} 
 nytdserv<-read.csv(“service.csv”)
 COR<-cor(nytdserv)
@@ -40,7 +40,7 @@ COR<-cor(nytdserv)
                   addCoef.col="black", addCoefasPercent = TRUE,
                   sig.level=0.50, insig = "blank")
   ```
-#correlation matrix nytd outcome data 
+##correlation matrix nytd outcome data 
  ```{r} 
 nytdoutcome<-read.csv(“outcome.csv”)
 COR<-cor(nytdoutcome)
@@ -49,7 +49,7 @@ COR<-cor(nytdoutcome)
                   addCoef.col="black", addCoefasPercent = TRUE,
                   sig.level=0.50, insig = "blank")
              ```
-# logistic regression predicting goal of adoption 
+## logistic regression predicting goal of adoption 
 ```{r} 
 fit <- glm(foster$goaladoption ~ ., data=foster )
  summary(fit)
